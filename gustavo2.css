@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+    <meta charset="UTF-8".>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Menu </title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="gutavo2.css">
+</head>
+<body>
+<h1> Expresos </h1>
+<ul>
+    <li> 
+        <h2> Latte </h2>
+        <img src="alterar dps">
+        <p>É um pingado co nome chique</p>
+    </li>
+    <li> <h2> Mocha </h2>
+        <img src=" alterar dps">
+        <p> Café achpcolatado</p>
+    </li>
+    <li> <h2> Expresso </h2>
+        <img src= alterar dps>
+        <p>Café extraforte</p>
+    </li>
+    </ul>
+</body>
+</html>
+
+
+</body>
