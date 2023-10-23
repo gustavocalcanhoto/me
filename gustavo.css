@@ -1,6 +1,14 @@
 h1 {
-    background-color: aqua;
-    text-align:center;
+    color: hotpink;
+}
+h2{
+    color: hotpink;
+}
+h3{
+    color: hotpink;
+}
+h4 {
+    color: hotpink;
 }
 
 p {
@@ -9,4 +17,51 @@ p {
 
 strong {
 font-size: 36px
+} 
+
+body {
+    background-color: lavender;
+
+    text-align: center;
+}
+.imagem1 {
+    width: 40%;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.unicornio {
+    font-style: initial;
+
+}
+.brilho {
+   color: deeppink;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+        color: fuchsia;
+        padding: 5%;
+        border-color: pink;
+        border-width: 20px;
+        border-style: solid;
+        border-radius: 12px 50px 2px 120px;p {
+    text-align: center;
+}
+    }
+
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: pink;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: pink;
 }
